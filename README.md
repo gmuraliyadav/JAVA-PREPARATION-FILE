@@ -1,4 +1,2 @@
-# murali-repository
-Java Preparation File 
-<br>
-Java 8 Features
+# murai - repository on java
+Join with me to learn Java 
